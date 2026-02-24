@@ -19,4 +19,4 @@ int main() { //mulai
     cout << "Hasilnya = " << luas << endl;
     cout << "terima kasih";
 } //selesai
-// Praktikum 1
+// Praktikum
